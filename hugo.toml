@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/' # todo
+languageCode = 'zh-CN'
+title = "Shane's thoughts"
+theme = 'nostyleplease'
